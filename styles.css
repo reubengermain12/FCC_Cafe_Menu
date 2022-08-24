@@ -4,7 +4,7 @@ p {
   text-align: center;
 }
 body {
-  /* background-color: burlywood; */
+  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 .menu {
   width: 80%;
