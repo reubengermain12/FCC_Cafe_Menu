@@ -53,16 +53,19 @@ h2 {
   margin-bottom: 5px;
   font-size: 18px;
 }
-.flavor,
+.flavor {
+  text-align: left;
+  width: 75%;
+}
 .dessert {
   text-align: left;
   width: 75%;
 }
-.price {
+.price .dessert {
   text-align: right;
   width: 25%;
 }
-/*FOOTER*/
+
 footer {
   font-size: 14px;
 }
@@ -81,4 +84,3 @@ a:hover {
 a:active {
   color: brown;
 }
-/*finished this project but must go back and fix desset and price to be on the same line*/
